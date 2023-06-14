@@ -1,2 +1,3 @@
 # Sudoku Solver
  just a simple sudoku solver without gui or input as of yet... 
+dont even know if i will add it at any point, just wanted to try out some algorithms
