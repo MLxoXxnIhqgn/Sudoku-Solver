@@ -10,10 +10,6 @@ grid = [
     [6,0,0,0,0,0,0,0,0]
 ]
 
-grid = input()
-
-# print(grid)
-
 def find_empty(cell):
     for i in range(len(cell)):
         for j in range(len(cell[0])):
